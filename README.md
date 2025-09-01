@@ -5,9 +5,8 @@ Este projeto foi construído com Vue.js no front-end e JSON Server como backend 
 clone o projecto:
 https://github.com/Ailton02/Projecto-TraversyMedia.git
 
-faça: npm install no terminal dentro do projecto
-2º: npm run server(não feche)
-3º: Em um outro terminal faça npm run dev
+faça:1º npm install no terminal dentro do projecto
+2º: abra o  terminal  e faça npm run dev
 
 # Como configurei o tailwind
 instalação da bibliotca tailwindcss: npm install tailwindcss @tailwindcss/vite,

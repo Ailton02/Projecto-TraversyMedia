@@ -19,9 +19,9 @@
               Browse Jobs
             </RouterLink>
           </Card>
-          <Card bg="bg-red-100" >
-            <h2 class="text-2xl font-bold">For Employers</h2>
-            <p class="mt-2 mb-4">
+          <Card bg="bg-reduce-secondary" >
+            <h2 class="text-2xl font-bold text-white">For Employers</h2>
+            <p class="mt-2 mb-4 text-white">
               List your job to find the perfect developer for the role
             </p>
             <RouterLink

@@ -97,13 +97,13 @@ const DeleteJob = async (jobId) => {
 
               <h3 class="text-xl">Contact Email:</h3>
 
-              <p class="my-2 bg-primary p-2 font-bold">
+              <p class="my-2 bg-reduce-primary p-2  text-amber-50">
                 {{ state.job.company.contactEmail }}
               </p>
 
               <h3 class="text-xl wi">Contact Phone:</h3>
 
-              <p class="my-2 bg-primary p-2 font-bold"> {{ state.job.company.contactPhone }}</p>
+              <p class="my-2 bg-reduce-primary p-2  text-amber-50"> {{ state.job.company.contactPhone }}</p>
             </div>
 
             <!-- Manage -->

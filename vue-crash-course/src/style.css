@@ -5,6 +5,7 @@
 @theme {
    
   --color-primary: #111e33;
---text-primary: #111e33;
-
+  --text-primary: #111e33;
+  --color-reduce-primary: hsl(220, 50%, 17%);
+  --color-reduce-secondary: hsl(220, 60%, 15%);
 } 

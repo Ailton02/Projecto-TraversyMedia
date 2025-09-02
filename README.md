@@ -7,6 +7,7 @@ https://github.com/Ailton02/Projecto-TraversyMedia.git
 
 faça:1º npm install no terminal dentro do projecto
 2º: abra o  terminal  e faça npm run dev
+3°: abra um outro terminal e faça nom run server( para rodar o servidor)
 
 # Como configurei o tailwind
 instalação da bibliotca tailwindcss: npm install tailwindcss @tailwindcss/vite,
